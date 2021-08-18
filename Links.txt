@@ -1,0 +1,5 @@
+http://www.mukeshkumar.net/Upload/ebook/Azure-DevOps-CI-CD-Pipeline-Practical-Guide.pdf
+https://medium.com/@soufianerafik/how-to-add-a-local-project-to-github-on-macos-94a64659612b
+https://www.c-sharpcorner.com/article/test-driven-development-in-visual-studio-2019/
+https://www.yogihosting.com/aspnet-core-first-crud-application/#download
+https://www.youtube.com/watch?v=h8iWRcmUE4M
